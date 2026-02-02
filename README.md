@@ -5,7 +5,7 @@
 <p style="font-size:16px; color:#d6fdf6;">
 𝗕𝘂𝗶𝗹𝘁 & 𝗖𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗲𝗱 𝗯𝘆  
 <span style="color:#00ffd1; font-weight:600;">
-𝐌𝐨𝐡𝐚𝐦𝗺𝐚𝐝 𝐀𝐤𝐚𝐬𝗵
+𝐌𝐨𝐡𝐚𝗺𝗺𝐚𝗱 𝐀𝐤𝐚𝐬𝗵
 </span>
 </p>
 
@@ -20,15 +20,15 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge&logo=github&labelColor=1F2428"/>
 <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=messenger&labelColor=1F2428"/>
-<img src="https://img.shields.io/badge/License-Custom-red?style=for-the-badge&logo=opensourceinitiative&labelColor=1F2428"/>
+<img src="https://img.shields.io/badge/License-Safe-red?style=for-the-badge&logo=opensourceinitiative&labelColor=1F2428"/>
 <img src="https://img.shields.io/badge/Language-Node.js-informational?style=for-the-badge&logo=nodedotjs&labelColor=1F2428"/>
 </div>
 
 ---
 
-## 🌟 𝗔𝗯𝗼𝘂𝘁 𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩2
+## 🌟 About Goat Bot V2
 
-> 𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩2 𝗶𝘀 a smart, reliable Facebook Messenger bot designed for automation, group management & entertainment.
+> Goat Bot V2 is a smart, reliable Facebook Messenger bot designed for automation, group management & entertainment.
 
 💡 **This is a custom fork maintained by 𝐌𝐨𝐡𝐚𝗺𝗺𝐚𝗱 𝐀𝐤𝐚𝐬𝗵 for educational & personal use.**  
 
@@ -36,17 +36,17 @@
 
 ---
 
-## 🛠 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
+## 🛠 Features
 
-- 🚀 **Auto Reply & Smart Commands**  
-- 🎭 **Welcome / Leave System**  
-- 📦 **Custom Commands**  
-- 🕹️ **Admin Tools & Fun Features**  
-- 🌍 **Multi-language Support** (EN, BN)
+- 🚀 Auto Reply & Smart Commands  
+- 🎭 Welcome / Leave System  
+- 📦 Custom Commands  
+- 🕹️ Admin Tools & Fun Features  
+- 🌍 Multi-language Support (EN, BN)
 
 ---
 
-## ⚙️ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗗𝗲𝘁𝗮𝗶𝗹𝘀
+## ⚙️ Framework Details
 
 - 📦 Based on: Goat Bot V2 Framework  
 - 📆 Version: 2.0 (Custom Edition)  
@@ -54,7 +54,7 @@
 
 ---
 
-## 📹 𝗦𝗲𝘁𝘂𝗽 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹
+## 📹 Setup Tutorial
 
 [![Watch Tutorial](https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg)](https://youtu.be/gPf_BFhQz_w)  
 
@@ -62,7 +62,7 @@ Click thumbnail to watch full tutorial.
 
 ---
 
-## 🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+## 🌐 Connect with Developer
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arakashiam)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arakashiam)  
@@ -71,27 +71,23 @@ Click thumbnail to watch full tutorial.
 
 ---
 
-## ⚠️ 𝗗𝗶𝘀𝗰𝗹𝗮𝗶𝗺𝗲𝗿 & 𝗖𝗿𝗲𝗱𝗶𝘁
+## ⚠️ Disclaimer & Safe Fork Rules
 
 This repository is a **custom fork** of the original Goat Bot V2 framework.
 
-I do **NOT claim ownership** of the original project.  
-All original credits belong to the original developer: [ntkhang03](https://github.com/ntkhang03/Goat-Bot-V2.git).
+**Original credit:** [ntkhang03](https://github.com/ntkhang03/Goat-Bot-V2.git)
 
-**Educational & personal use only.**  
+**Rules to reduce suspension risk:**
 
-🚫 I am not responsible for misuse, platform bans, or violations.  
+1. Keep original credits ✅  
+2. Include README & LICENSE ✅  
+3. No keys, tokens, or spam scripts ❌  
+4. Do not evade bans with multiple accounts ❌  
 
----
+**Allowed:** educational, personal, or learning purposes only.  
+**Prohibited:** malicious use, spam, bypassing platform rules.
 
-## 🔒 𝗙𝗼𝗿𝗸 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻
-
-- Keep original credits  
-- Include README & LICENSE  
-- No keys, tokens, or spam scripts  
-- Do not evade bans with multiple accounts  
-
-Following these rules **reduces suspension risk to near zero** ✅
+Following these rules **minimizes suspension risk to near-zero** ✅
 
 ---
 
