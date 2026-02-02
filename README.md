@@ -28,9 +28,11 @@
 
 ## 🌟 𝗔𝗯𝗼𝘂𝘁 𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩2
 
-> 𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩2 𝗶𝘀 𝗮 𝗽𝗼𝘄𝗲𝗿𝗳𝘂𝗹, 𝘀𝗺𝗮𝗿𝘁, 𝗮𝗻𝗱 𝗿𝗲𝗹𝗶𝗮𝗯𝗹𝗲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 𝗯𝗼𝘁 𝗳𝗼𝗿 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻, 𝗴𝗿𝗼𝘂𝗽 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 & 𝗲𝗻𝘁𝗲𝗿𝘁𝗮𝗶𝗻𝗺𝗲𝗻𝘁.
+> 𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩2 𝗶𝘀 a smart, reliable Facebook Messenger bot designed for automation, group management & entertainment.
 
-💡 **Custom fork maintained by 𝐌𝐨𝐡𝐚𝗺𝗺𝐚𝗱 𝐀𝐤𝐚𝐬𝗵 for educational purposes only.**
+💡 **This is a custom fork maintained by 𝐌𝐨𝐡𝐚𝗺𝗺𝐚𝗱 𝐀𝐤𝐚𝐬𝗵 for educational & personal use.**  
+
+🔗 **Original Repository / Credits:** [Goat Bot V2 by ntkhang03](https://github.com/ntkhang03/Goat-Bot-V2.git)
 
 ---
 
@@ -54,9 +56,9 @@
 
 ## 📹 𝗦𝗲𝘁𝘂𝗽 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹
 
-[![Watch Tutorial](https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg)](https://youtu.be/gPf_BFhQz_w)
+[![Watch Tutorial](https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg)](https://youtu.be/gPf_BFhQz_w)  
 
-Click the thumbnail to watch full setup tutorial on YouTube.  
+Click thumbnail to watch full tutorial.
 
 ---
 
@@ -74,7 +76,7 @@ Click the thumbnail to watch full setup tutorial on YouTube.
 This repository is a **custom fork** of the original Goat Bot V2 framework.
 
 I do **NOT claim ownership** of the original project.  
-All original credits belong to the Goat Bot developers.
+All original credits belong to the original developer: [ntkhang03](https://github.com/ntkhang03/Goat-Bot-V2.git).
 
 **Educational & personal use only.**  
 
